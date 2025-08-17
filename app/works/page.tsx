@@ -1,7 +1,5 @@
 export const metadata = { title: "Mahenul-Projects" };
 
-import Link from "next/link";
-import Image from "next/image";
 import TechStack from "@/components/TechStack";
 
 export default function WorksPage() {
@@ -32,6 +30,13 @@ export default function WorksPage() {
       tech: "Next.js | Tailwind CSS | TypeScript",
       desc: "An ecommerce site with a modern design and a user‑friendly shopping experience.",
       href: "https://aamar-dokan.vercel.app/",
+    },
+    {
+      title: "Zero Nine Holdings – Business Website",
+      tech: "HTML | CSS | JavaScript",
+      desc:
+        "Corporate website for Zero Nine Holdings showcasing services and brand presence.",
+      href: "https://zeronineholdings.netlify.app/",
     },
   ];
 
