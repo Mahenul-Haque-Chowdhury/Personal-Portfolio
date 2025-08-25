@@ -12,6 +12,13 @@ export default function WorksPage() {
       href: "https://courselogistics.net",
     },
     {
+      title: "arnob.life – Personal Portfolio",
+      tech: "Next.js | Tailwind CSS | TypeScript",
+      desc:
+        "My live personal portfolio showcasing projects, journey, and design system.",
+      href: "https://arnob.life/",
+    },
+    {
       title: "AetherCore Dynamics",
       tech: "HTML | CSS | JavaScript | React",
       desc:
@@ -19,17 +26,10 @@ export default function WorksPage() {
       href: "https://aethercoredynamics.netlify.app/",
     },
     {
-      title: "Personal Portfolio Website with Admin Panel",
-      tech: "HTML | CSS | JavaScript",
-      desc:
-        "Designed and developed a responsive portfolio website to showcase projects and professional skills with modern animations.",
-      href: "https://devarnob.netlify.app/",
-    },
-    {
-      title: "Aamar Dokan – Ecommerce",
+      title: "Trendology.page",
       tech: "Next.js | Tailwind CSS | TypeScript",
-      desc: "An ecommerce site with a modern design and a user‑friendly shopping experience.",
-      href: "https://aamar-dokan.vercel.app/",
+      desc: "A modern platform with a clean design and user‑friendly experience.",
+      href: "https://trendology.page/",
     },
     {
       title: "Zero Nine Holdings – Business Website",

@@ -36,10 +36,10 @@ export default function Home() {
         <div className="grid gap-8 md:grid-cols-2">
           {[
             {
-              title: "Aamar Dokan – Ecommerce",
+              title: "Trendology.page- E-commerce site",
               tech: "Next.js | Tailwind CSS | TypeScript",
-              desc: "An ecommerce site with a modern design and a user‑friendly shopping experience.",
-              href: "https://aamar-dokan.vercel.app/",
+              desc: "A modern platform with a clean design and user‑friendly experience.",
+              href: "https://trendology.page/",
             },
             {
               title: "arnob.life – Personal Portfolio",
